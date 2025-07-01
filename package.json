@@ -36,8 +36,7 @@
     "openai": "^4.82.0",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
-    "streamifier": "^0.1.1",
-    "vosk": "^0.3.39"
+    "streamifier": "^0.1.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
