@@ -1,7 +1,4 @@
 node_modules/
 dist/
-.env
-coverage/
+.vscode/
 *.log
-.DS_Store
-uploads/
